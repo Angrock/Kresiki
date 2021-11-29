@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
+<<<<<<< HEAD
   lastUpdatedAtString: 2021-11-29T23:46:33.914+03:00
   initializedAtString: 2021-11-29T23:13:33.442+03:00
   entries:
@@ -1186,3 +1187,14 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+=======
+  lastUpdatedAtString: 2021-11-29T23:15:01.444+03:00
+  initializedAtString: 2021-11-29T21:08:23.864+03:00
+  entries:
+  - path: .gitignore
+    fullPath: D:\UnityProjects\tictactoe\.gitignore
+    projectPath: .gitignore
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+>>>>>>> c89843a89c9111667e97d61dff76d3ad38bbbaca

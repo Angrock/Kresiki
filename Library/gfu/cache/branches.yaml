@@ -13,8 +13,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
+<<<<<<< HEAD
   lastUpdatedAtString: 2021-11-29T23:13:34.214+03:00
   initializedAtString: 2021-11-29T23:13:34.207+03:00
+=======
+  lastUpdatedAtString: 2021-11-29T22:39:19.457+03:00
+  initializedAtString: 2021-11-29T21:10:40.733+03:00
+>>>>>>> c89843a89c9111667e97d61dff76d3ad38bbbaca
   localBranches:
   - name: main
     tracking: origin/main
@@ -23,7 +28,11 @@ MonoBehaviour:
     tracking: '[None]'
   remotes:
   - name: origin
+<<<<<<< HEAD
     url: https://github.com/Angrock/Kresiki.git
+=======
+    url: https://github.com/cubecrusher/tictactoe.git
+>>>>>>> c89843a89c9111667e97d61dff76d3ad38bbbaca
     login: 
     user: 
     host: 
@@ -36,7 +45,11 @@ MonoBehaviour:
     - name: main
       remote:
         name: origin
+<<<<<<< HEAD
         url: https://github.com/Angrock/Kresiki.git
+=======
+        url: https://github.com/cubecrusher/tictactoe.git
+>>>>>>> c89843a89c9111667e97d61dff76d3ad38bbbaca
       trackingBranch: main
   remoteConfigBranches:
     keys:
@@ -49,11 +62,19 @@ MonoBehaviour:
       - name: main
         remote:
           name: origin
+<<<<<<< HEAD
           url: https://github.com/Angrock/Kresiki.git
+=======
+          url: https://github.com/cubecrusher/tictactoe.git
+>>>>>>> c89843a89c9111667e97d61dff76d3ad38bbbaca
         trackingBranch: 
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
+<<<<<<< HEAD
       url: https://github.com/Angrock/Kresiki.git
+=======
+      url: https://github.com/cubecrusher/tictactoe.git
+>>>>>>> c89843a89c9111667e97d61dff76d3ad38bbbaca

@@ -13,7 +13,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 8
+<<<<<<< HEAD
   lastUpdatedAtString: 2021-11-29T23:13:41.084+03:00
   initializedAtString: 2021-11-29T23:13:41.081+03:00
   gitName: Angrock
   gitEmail: 95244240+Angrock@users.noreply.github.com
+=======
+  lastUpdatedAtString: 2021-11-29T23:14:57.958+03:00
+  initializedAtString: 2021-11-29T21:04:03.507+03:00
+  gitName: cubecrusher
+  gitEmail: 63446730+cubecrusher@users.noreply.github.com
+>>>>>>> c89843a89c9111667e97d61dff76d3ad38bbbaca

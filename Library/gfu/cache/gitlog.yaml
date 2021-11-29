@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
+<<<<<<< HEAD
   lastUpdatedAtString: 2021-11-29T23:46:43.638+03:00
   initializedAtString: 2021-11-29T23:13:41.090+03:00
   log:
@@ -30,22 +31,392 @@ MonoBehaviour:
     changes:
     - path: Assets\Scenes.meta
       fullPath: C:\Users\andre\Crestiki-noliki\Assets\Scenes.meta
+=======
+  lastUpdatedAtString: 2021-11-29T23:15:00.990+03:00
+  initializedAtString: 2021-11-29T21:08:23.713+03:00
+  log:
+  - commitID: 844daaf75dc35511aa330ace4c4be55eaf6a4f7b
+    mergeA: 
+    mergeB: 
+    authorName: cubecrusher
+    authorEmail: 63446730+cubecrusher@users.noreply.github.com
+    commitEmail: 63446730+cubecrusher@users.noreply.github.com
+    commitName: cubecrusher
+    summary: Test
+    description: 
+    timeString: 2021-11-29T21:24:14.000+03:00
+    commitTimeString: 2021-11-29T21:24:14.000+03:00
+    changes:
+    - path: Assets\Assets.meta
+      fullPath: D:\UnityProjects\tictactoe\Assets\Assets.meta
+      projectPath: Assets\Assets.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assets\test.cs
+      fullPath: D:\UnityProjects\tictactoe\Assets\Assets\test.cs
+      projectPath: Assets\Assets\test.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assets\test.cs.meta
+      fullPath: D:\UnityProjects\tictactoe\Assets\Assets\test.cs.meta
+      projectPath: Assets\Assets\test.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: d2f4a0ebb7d1e7f5760fe5b1f290b7442af13088
+    mergeA: 
+    mergeB: 
+    authorName: cubecrusher
+    authorEmail: 63446730+cubecrusher@users.noreply.github.com
+    commitEmail: 63446730+cubecrusher@users.noreply.github.com
+    commitName: cubecrusher
+    summary: First commit
+    description: 
+    timeString: 2021-11-29T21:14:38.000+03:00
+    commitTimeString: 2021-11-29T21:14:38.000+03:00
+    changes:
+    - path: .collabignore
+      fullPath: D:\UnityProjects\tictactoe\.collabignore
+      projectPath: .collabignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins.meta
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: D:\UnityProjects\tictactoe\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes.meta
+      fullPath: D:\UnityProjects\tictactoe\Assets\Scenes.meta
+>>>>>>> c89843a89c9111667e97d61dff76d3ad38bbbaca
       projectPath: Assets\Scenes.meta
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: Assets\Scenes\SampleScene.unity
+<<<<<<< HEAD
       fullPath: C:\Users\andre\Crestiki-noliki\Assets\Scenes\SampleScene.unity
+=======
+      fullPath: D:\UnityProjects\tictactoe\Assets\Scenes\SampleScene.unity
+>>>>>>> c89843a89c9111667e97d61dff76d3ad38bbbaca
       projectPath: Assets\Scenes\SampleScene.unity
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: Assets\Scenes\SampleScene.unity.meta
+<<<<<<< HEAD
       fullPath: C:\Users\andre\Crestiki-noliki\Assets\Scenes\SampleScene.unity.meta
+=======
+      fullPath: D:\UnityProjects\tictactoe\Assets\Scenes\SampleScene.unity.meta
+>>>>>>> c89843a89c9111667e97d61dff76d3ad38bbbaca
       projectPath: Assets\Scenes\SampleScene.unity.meta
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
+<<<<<<< HEAD
     - path: Library\APIUpdater\project-dependencies.graph
       fullPath: C:\Users\andre\Crestiki-noliki\Library\APIUpdater\project-dependencies.graph
       projectPath: Library\APIUpdater\project-dependencies.graph
@@ -22816,10 +23187,15 @@ MonoBehaviour:
       workTreeStatus: 0
     - path: Packages\manifest.json
       fullPath: C:\Users\andre\Crestiki-noliki\Packages\manifest.json
+=======
+    - path: Packages\manifest.json
+      fullPath: D:\UnityProjects\tictactoe\Packages\manifest.json
+>>>>>>> c89843a89c9111667e97d61dff76d3ad38bbbaca
       projectPath: Packages\manifest.json
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
+<<<<<<< HEAD
     - path: Packages\packages-lock.json
       fullPath: C:\Users\andre\Crestiki-noliki\Packages\packages-lock.json
       projectPath: Packages\packages-lock.json
@@ -22828,52 +23204,85 @@ MonoBehaviour:
       workTreeStatus: 0
     - path: ProjectSettings\AudioManager.asset
       fullPath: C:\Users\andre\Crestiki-noliki\ProjectSettings\AudioManager.asset
+=======
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: D:\UnityProjects\tictactoe\ProjectSettings\AudioManager.asset
+>>>>>>> c89843a89c9111667e97d61dff76d3ad38bbbaca
       projectPath: ProjectSettings\AudioManager.asset
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: ProjectSettings\ClusterInputManager.asset
+<<<<<<< HEAD
       fullPath: C:\Users\andre\Crestiki-noliki\ProjectSettings\ClusterInputManager.asset
+=======
+      fullPath: D:\UnityProjects\tictactoe\ProjectSettings\ClusterInputManager.asset
+>>>>>>> c89843a89c9111667e97d61dff76d3ad38bbbaca
       projectPath: ProjectSettings\ClusterInputManager.asset
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: ProjectSettings\DynamicsManager.asset
+<<<<<<< HEAD
       fullPath: C:\Users\andre\Crestiki-noliki\ProjectSettings\DynamicsManager.asset
+=======
+      fullPath: D:\UnityProjects\tictactoe\ProjectSettings\DynamicsManager.asset
+>>>>>>> c89843a89c9111667e97d61dff76d3ad38bbbaca
       projectPath: ProjectSettings\DynamicsManager.asset
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: ProjectSettings\EditorBuildSettings.asset
+<<<<<<< HEAD
       fullPath: C:\Users\andre\Crestiki-noliki\ProjectSettings\EditorBuildSettings.asset
+=======
+      fullPath: D:\UnityProjects\tictactoe\ProjectSettings\EditorBuildSettings.asset
+>>>>>>> c89843a89c9111667e97d61dff76d3ad38bbbaca
       projectPath: ProjectSettings\EditorBuildSettings.asset
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: ProjectSettings\EditorSettings.asset
+<<<<<<< HEAD
       fullPath: C:\Users\andre\Crestiki-noliki\ProjectSettings\EditorSettings.asset
+=======
+      fullPath: D:\UnityProjects\tictactoe\ProjectSettings\EditorSettings.asset
+>>>>>>> c89843a89c9111667e97d61dff76d3ad38bbbaca
       projectPath: ProjectSettings\EditorSettings.asset
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: ProjectSettings\GraphicsSettings.asset
+<<<<<<< HEAD
       fullPath: C:\Users\andre\Crestiki-noliki\ProjectSettings\GraphicsSettings.asset
+=======
+      fullPath: D:\UnityProjects\tictactoe\ProjectSettings\GraphicsSettings.asset
+>>>>>>> c89843a89c9111667e97d61dff76d3ad38bbbaca
       projectPath: ProjectSettings\GraphicsSettings.asset
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: ProjectSettings\InputManager.asset
+<<<<<<< HEAD
       fullPath: C:\Users\andre\Crestiki-noliki\ProjectSettings\InputManager.asset
+=======
+      fullPath: D:\UnityProjects\tictactoe\ProjectSettings\InputManager.asset
+>>>>>>> c89843a89c9111667e97d61dff76d3ad38bbbaca
       projectPath: ProjectSettings\InputManager.asset
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: ProjectSettings\NavMeshAreas.asset
+<<<<<<< HEAD
       fullPath: C:\Users\andre\Crestiki-noliki\ProjectSettings\NavMeshAreas.asset
+=======
+      fullPath: D:\UnityProjects\tictactoe\ProjectSettings\NavMeshAreas.asset
+>>>>>>> c89843a89c9111667e97d61dff76d3ad38bbbaca
       projectPath: ProjectSettings\NavMeshAreas.asset
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
+<<<<<<< HEAD
     - path: ProjectSettings\PackageManagerSettings.asset
       fullPath: C:\Users\andre\Crestiki-noliki\ProjectSettings\PackageManagerSettings.asset
       projectPath: ProjectSettings\PackageManagerSettings.asset
@@ -22882,61 +23291,134 @@ MonoBehaviour:
       workTreeStatus: 0
     - path: ProjectSettings\Physics2DSettings.asset
       fullPath: C:\Users\andre\Crestiki-noliki\ProjectSettings\Physics2DSettings.asset
+=======
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: D:\UnityProjects\tictactoe\ProjectSettings\Physics2DSettings.asset
+>>>>>>> c89843a89c9111667e97d61dff76d3ad38bbbaca
       projectPath: ProjectSettings\Physics2DSettings.asset
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: ProjectSettings\PresetManager.asset
+<<<<<<< HEAD
       fullPath: C:\Users\andre\Crestiki-noliki\ProjectSettings\PresetManager.asset
+=======
+      fullPath: D:\UnityProjects\tictactoe\ProjectSettings\PresetManager.asset
+>>>>>>> c89843a89c9111667e97d61dff76d3ad38bbbaca
       projectPath: ProjectSettings\PresetManager.asset
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: ProjectSettings\ProjectSettings.asset
+<<<<<<< HEAD
       fullPath: C:\Users\andre\Crestiki-noliki\ProjectSettings\ProjectSettings.asset
+=======
+      fullPath: D:\UnityProjects\tictactoe\ProjectSettings\ProjectSettings.asset
+>>>>>>> c89843a89c9111667e97d61dff76d3ad38bbbaca
       projectPath: ProjectSettings\ProjectSettings.asset
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: ProjectSettings\ProjectVersion.txt
+<<<<<<< HEAD
       fullPath: C:\Users\andre\Crestiki-noliki\ProjectSettings\ProjectVersion.txt
+=======
+      fullPath: D:\UnityProjects\tictactoe\ProjectSettings\ProjectVersion.txt
+>>>>>>> c89843a89c9111667e97d61dff76d3ad38bbbaca
       projectPath: ProjectSettings\ProjectVersion.txt
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: ProjectSettings\QualitySettings.asset
+<<<<<<< HEAD
       fullPath: C:\Users\andre\Crestiki-noliki\ProjectSettings\QualitySettings.asset
+=======
+      fullPath: D:\UnityProjects\tictactoe\ProjectSettings\QualitySettings.asset
+>>>>>>> c89843a89c9111667e97d61dff76d3ad38bbbaca
       projectPath: ProjectSettings\QualitySettings.asset
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: ProjectSettings\TagManager.asset
+<<<<<<< HEAD
       fullPath: C:\Users\andre\Crestiki-noliki\ProjectSettings\TagManager.asset
+=======
+      fullPath: D:\UnityProjects\tictactoe\ProjectSettings\TagManager.asset
+>>>>>>> c89843a89c9111667e97d61dff76d3ad38bbbaca
       projectPath: ProjectSettings\TagManager.asset
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: ProjectSettings\TimeManager.asset
+<<<<<<< HEAD
       fullPath: C:\Users\andre\Crestiki-noliki\ProjectSettings\TimeManager.asset
+=======
+      fullPath: D:\UnityProjects\tictactoe\ProjectSettings\TimeManager.asset
+>>>>>>> c89843a89c9111667e97d61dff76d3ad38bbbaca
       projectPath: ProjectSettings\TimeManager.asset
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: ProjectSettings\UnityConnectSettings.asset
+<<<<<<< HEAD
       fullPath: C:\Users\andre\Crestiki-noliki\ProjectSettings\UnityConnectSettings.asset
+=======
+      fullPath: D:\UnityProjects\tictactoe\ProjectSettings\UnityConnectSettings.asset
+>>>>>>> c89843a89c9111667e97d61dff76d3ad38bbbaca
       projectPath: ProjectSettings\UnityConnectSettings.asset
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: ProjectSettings\VFXManager.asset
+<<<<<<< HEAD
       fullPath: C:\Users\andre\Crestiki-noliki\ProjectSettings\VFXManager.asset
+=======
+      fullPath: D:\UnityProjects\tictactoe\ProjectSettings\VFXManager.asset
+>>>>>>> c89843a89c9111667e97d61dff76d3ad38bbbaca
       projectPath: ProjectSettings\VFXManager.asset
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: ProjectSettings\XRSettings.asset
+<<<<<<< HEAD
       fullPath: C:\Users\andre\Crestiki-noliki\ProjectSettings\XRSettings.asset
+=======
+      fullPath: D:\UnityProjects\tictactoe\ProjectSettings\XRSettings.asset
+>>>>>>> c89843a89c9111667e97d61dff76d3ad38bbbaca
       projectPath: ProjectSettings\XRSettings.asset
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
+<<<<<<< HEAD
+=======
+  - commitID: 05ec821203677efaab628864c55463eed653bf47
+    mergeA: 
+    mergeB: 
+    authorName: cubecrusher
+    authorEmail: 63446730+cubecrusher@users.noreply.github.com
+    commitEmail: 63446730+cubecrusher@users.noreply.github.com
+    commitName: cubecrusher
+    summary: Initial commit
+    description: 
+    timeString: 2021-11-29T21:08:22.000+03:00
+    commitTimeString: 2021-11-29T21:08:22.000+03:00
+    changes:
+    - path: .gitattributes
+      fullPath: D:\UnityProjects\tictactoe\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: D:\UnityProjects\tictactoe\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: D:\UnityProjects\tictactoe\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+>>>>>>> c89843a89c9111667e97d61dff76d3ad38bbbaca
