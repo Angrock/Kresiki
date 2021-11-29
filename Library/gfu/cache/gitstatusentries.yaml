@@ -1,0 +1,1188 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-11-29T23:46:33.914+03:00
+  initializedAtString: 2021-11-29T23:13:33.442+03:00
+  entries:
+  - path: Assets\Plugins.meta
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins.meta
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub.meta
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor.meta
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\vvkrvjrn.cs
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\vvkrvjrn.cs
+    projectPath: Assets\vvkrvjrn.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\vvkrvjrn.cs.meta
+    fullPath: C:\Users\andre\Crestiki-noliki\Assets\vvkrvjrn.cs.meta
+    projectPath: Assets\vvkrvjrn.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\APIUpdater\project-dependencies.graph
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ArtifactDB
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Artifacts\0d\0dfba29721d33e3f5a9d9fa04bbf20bd
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\0d\0dfba29721d33e3f5a9d9fa04bbf20bd
+    projectPath: Library\Artifacts\0d\0dfba29721d33e3f5a9d9fa04bbf20bd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\14\14b2d127566e9fce3139f6fc6c6bf56f
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\14\14b2d127566e9fce3139f6fc6c6bf56f
+    projectPath: Library\Artifacts\14\14b2d127566e9fce3139f6fc6c6bf56f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\17\17bc07332952ddde5531e8cabcc4d2d7
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\17\17bc07332952ddde5531e8cabcc4d2d7
+    projectPath: Library\Artifacts\17\17bc07332952ddde5531e8cabcc4d2d7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\19\1993c2f0e67d0a98da7371cb403c8d70
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\19\1993c2f0e67d0a98da7371cb403c8d70
+    projectPath: Library\Artifacts\19\1993c2f0e67d0a98da7371cb403c8d70
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1a\1a0b924a23913ce50cf06dc77435e2bb
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\1a\1a0b924a23913ce50cf06dc77435e2bb
+    projectPath: Library\Artifacts\1a\1a0b924a23913ce50cf06dc77435e2bb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1b\1baf89fdf311ac4fe5c3504392a28a6f
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\1b\1baf89fdf311ac4fe5c3504392a28a6f
+    projectPath: Library\Artifacts\1b\1baf89fdf311ac4fe5c3504392a28a6f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1e\1e6813608ef3373a25aacf2eb0e3ebeb
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\1e\1e6813608ef3373a25aacf2eb0e3ebeb
+    projectPath: Library\Artifacts\1e\1e6813608ef3373a25aacf2eb0e3ebeb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1f\1fa54e156ce546665d2352c8ce20ee22
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\1f\1fa54e156ce546665d2352c8ce20ee22
+    projectPath: Library\Artifacts\1f\1fa54e156ce546665d2352c8ce20ee22
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\20\2047a5be679f3bd661ce3b54683c1a70
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\20\2047a5be679f3bd661ce3b54683c1a70
+    projectPath: Library\Artifacts\20\2047a5be679f3bd661ce3b54683c1a70
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    projectPath: Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\23\23f8298340267ff7a1d1d40939de349b
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\23\23f8298340267ff7a1d1d40939de349b
+    projectPath: Library\Artifacts\23\23f8298340267ff7a1d1d40939de349b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\28\28a715b76718656cddb40356909f5bcd
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\28\28a715b76718656cddb40356909f5bcd
+    projectPath: Library\Artifacts\28\28a715b76718656cddb40356909f5bcd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2d\2d0a31eb729f240ee934a45ef448fecd
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\2d\2d0a31eb729f240ee934a45ef448fecd
+    projectPath: Library\Artifacts\2d\2d0a31eb729f240ee934a45ef448fecd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\31\31f29633ef7c6b2ea1069701123225b7
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\31\31f29633ef7c6b2ea1069701123225b7
+    projectPath: Library\Artifacts\31\31f29633ef7c6b2ea1069701123225b7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\42\422920f7db87ca9500ad2f8c8fa30a3b
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\42\422920f7db87ca9500ad2f8c8fa30a3b
+    projectPath: Library\Artifacts\42\422920f7db87ca9500ad2f8c8fa30a3b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\49\49ca85415b6d5a43a083eab4d7efd0c3
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\49\49ca85415b6d5a43a083eab4d7efd0c3
+    projectPath: Library\Artifacts\49\49ca85415b6d5a43a083eab4d7efd0c3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5f\5f7408e37bd0635c17adccf072f3cfaf
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\5f\5f7408e37bd0635c17adccf072f3cfaf
+    projectPath: Library\Artifacts\5f\5f7408e37bd0635c17adccf072f3cfaf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\74\74eb56ea25943f65398ae42c5c096cb4
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\74\74eb56ea25943f65398ae42c5c096cb4
+    projectPath: Library\Artifacts\74\74eb56ea25943f65398ae42c5c096cb4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7b\7b4d01a96e5f8a078fdddd33c681a017
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\7b\7b4d01a96e5f8a078fdddd33c681a017
+    projectPath: Library\Artifacts\7b\7b4d01a96e5f8a078fdddd33c681a017
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7e\7e125afda39d01b3a67d8114859b0552
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\7e\7e125afda39d01b3a67d8114859b0552
+    projectPath: Library\Artifacts\7e\7e125afda39d01b3a67d8114859b0552
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8e\8e79b11d28123b70b785817b298c82ed
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\8e\8e79b11d28123b70b785817b298c82ed
+    projectPath: Library\Artifacts\8e\8e79b11d28123b70b785817b298c82ed
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\90\90ae25290b67ce5ec3b83a7897bd54fa
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\90\90ae25290b67ce5ec3b83a7897bd54fa
+    projectPath: Library\Artifacts\90\90ae25290b67ce5ec3b83a7897bd54fa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\92\921a704d2ce74dc305ddc5e5d76f0f2f
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\92\921a704d2ce74dc305ddc5e5d76f0f2f
+    projectPath: Library\Artifacts\92\921a704d2ce74dc305ddc5e5d76f0f2f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\92\92d939c55e3ee50af11dca491a4c0389
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\92\92d939c55e3ee50af11dca491a4c0389
+    projectPath: Library\Artifacts\92\92d939c55e3ee50af11dca491a4c0389
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9a\9a316872b44d7cbbc61fe83de66bf0b8
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\9a\9a316872b44d7cbbc61fe83de66bf0b8
+    projectPath: Library\Artifacts\9a\9a316872b44d7cbbc61fe83de66bf0b8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9a\9a6d87114c7aa2e3b1529f04992a903d
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\9a\9a6d87114c7aa2e3b1529f04992a903d
+    projectPath: Library\Artifacts\9a\9a6d87114c7aa2e3b1529f04992a903d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a0\a07af40447876fa2ad21011e2bb71ae9
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\a0\a07af40447876fa2ad21011e2bb71ae9
+    projectPath: Library\Artifacts\a0\a07af40447876fa2ad21011e2bb71ae9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ae\ae954902fd08d981740177dd8dc2076f
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\ae\ae954902fd08d981740177dd8dc2076f
+    projectPath: Library\Artifacts\ae\ae954902fd08d981740177dd8dc2076f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ae\aed6c0b19d5d1d7e8b67b6f67df34491
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\ae\aed6c0b19d5d1d7e8b67b6f67df34491
+    projectPath: Library\Artifacts\ae\aed6c0b19d5d1d7e8b67b6f67df34491
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ae\aee1e638b34038a9c38b9b074c1684b4
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\ae\aee1e638b34038a9c38b9b074c1684b4
+    projectPath: Library\Artifacts\ae\aee1e638b34038a9c38b9b074c1684b4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b7\b7d9c78d95469ff8dfeacec1ea9986ce
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\b7\b7d9c78d95469ff8dfeacec1ea9986ce
+    projectPath: Library\Artifacts\b7\b7d9c78d95469ff8dfeacec1ea9986ce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b8\b85d93c9b6a86f09633178ed3a2d1f38
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\b8\b85d93c9b6a86f09633178ed3a2d1f38
+    projectPath: Library\Artifacts\b8\b85d93c9b6a86f09633178ed3a2d1f38
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ba\bae7b818791ae82911500a451dabc0f9
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\ba\bae7b818791ae82911500a451dabc0f9
+    projectPath: Library\Artifacts\ba\bae7b818791ae82911500a451dabc0f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c5\c57a4391b4a4ea5f06d07236eab1072d
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\c5\c57a4391b4a4ea5f06d07236eab1072d
+    projectPath: Library\Artifacts\c5\c57a4391b4a4ea5f06d07236eab1072d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c5\c5e767dfa7ba6f3692ade4c5ea081aff
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\c5\c5e767dfa7ba6f3692ade4c5ea081aff
+    projectPath: Library\Artifacts\c5\c5e767dfa7ba6f3692ade4c5ea081aff
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\cc\cc2e488d56b0289ec009a8d2f0530027
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\cc\cc2e488d56b0289ec009a8d2f0530027
+    projectPath: Library\Artifacts\cc\cc2e488d56b0289ec009a8d2f0530027
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d6\d60bbb6bf5a5538147aaa67e91de173f
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\d6\d60bbb6bf5a5538147aaa67e91de173f
+    projectPath: Library\Artifacts\d6\d60bbb6bf5a5538147aaa67e91de173f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d9\d952ab6cfc27037f4bf382f9c6dcd70d
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\d9\d952ab6cfc27037f4bf382f9c6dcd70d
+    projectPath: Library\Artifacts\d9\d952ab6cfc27037f4bf382f9c6dcd70d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\da\dabe1c69b10f2f7d53553fd0a3291483
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\da\dabe1c69b10f2f7d53553fd0a3291483
+    projectPath: Library\Artifacts\da\dabe1c69b10f2f7d53553fd0a3291483
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\dd\dd1f37b2fdbf136fa8f5e72ead5c5050
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\dd\dd1f37b2fdbf136fa8f5e72ead5c5050
+    projectPath: Library\Artifacts\dd\dd1f37b2fdbf136fa8f5e72ead5c5050
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\df\df53072638781ae27d0d38bf89c03701
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\df\df53072638781ae27d0d38bf89c03701
+    projectPath: Library\Artifacts\df\df53072638781ae27d0d38bf89c03701
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e3\e3531caa9fc5e54e93d6f1d0174da9d5
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\e3\e3531caa9fc5e54e93d6f1d0174da9d5
+    projectPath: Library\Artifacts\e3\e3531caa9fc5e54e93d6f1d0174da9d5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fa\fa2f0a5eab7d24e1db13d91c49e9f4e3
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\Artifacts\fa\fa2f0a5eab7d24e1db13d91c49e9f4e3
+    projectPath: Library\Artifacts\fa\fa2f0a5eab7d24e1db13d91c49e9f4e3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\SceneVisibilityState.asset
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache\4\409cdcf700121b4e66c04b8ed84c5cf9.bin
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\ShaderCache\4\409cdcf700121b4e66c04b8ed84c5cf9.bin
+    projectPath: Library\ShaderCache\4\409cdcf700121b4e66c04b8ed84c5cf9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\43ba96ceab4c8b7afcf26ebbb740c547.bin
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\ShaderCache\4\43ba96ceab4c8b7afcf26ebbb740c547.bin
+    projectPath: Library\ShaderCache\4\43ba96ceab4c8b7afcf26ebbb740c547.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\591a820ee59cc2e83ccf0882a088a092.bin
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\ShaderCache\5\591a820ee59cc2e83ccf0882a088a092.bin
+    projectPath: Library\ShaderCache\5\591a820ee59cc2e83ccf0882a088a092.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\70a383b3e1e4cdae7fb2c88695611453.bin
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\ShaderCache\7\70a383b3e1e4cdae7fb2c88695611453.bin
+    projectPath: Library\ShaderCache\7\70a383b3e1e4cdae7fb2c88695611453.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\7d2404aa35c5960ab305565df0d2254a.bin
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\ShaderCache\7\7d2404aa35c5960ab305565df0d2254a.bin
+    projectPath: Library\ShaderCache\7\7d2404aa35c5960ab305565df0d2254a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\aa87c39b5e5907c58d027fda31b13101.bin
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\ShaderCache\a\aa87c39b5e5907c58d027fda31b13101.bin
+    projectPath: Library\ShaderCache\a\aa87c39b5e5907c58d027fda31b13101.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b7fd57a664f8d3a390b52186d123bd5a.bin
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\ShaderCache\b\b7fd57a664f8d3a390b52186d123bd5a.bin
+    projectPath: Library\ShaderCache\b\b7fd57a664f8d3a390b52186d123bd5a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c78b5b91774dc2d60c2faf95e138f2ba.bin
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\ShaderCache\c\c78b5b91774dc2d60c2faf95e138f2ba.bin
+    projectPath: Library\ShaderCache\c\c78b5b91774dc2d60c2faf95e138f2ba.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d902da308d51752861b02bb4768a2fd7.bin
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\ShaderCache\d\d902da308d51752861b02bb4768a2fd7.bin
+    projectPath: Library\ShaderCache\d\d902da308d51752861b02bb4768a2fd7.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d980125923685c247b2fdecdc293a999.bin
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\ShaderCache\d\d980125923685c247b2fdecdc293a999.bin
+    projectPath: Library\ShaderCache\d\d980125923685c247b2fdecdc293a999.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe4.log
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\shadercompiler-UnityShaderCompiler.exe4.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe5.log
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\shadercompiler-UnityShaderCompiler.exe5.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\shadercompiler-UnityShaderCompiler.exe6.log
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\shadercompiler-UnityShaderCompiler.exe6.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\shadercompiler-UnityShaderCompiler.exe7.log
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\shadercompiler-UnityShaderCompiler.exe7.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe7.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\shadercompiler-UnityShaderCompiler.exe8.log
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\shadercompiler-UnityShaderCompiler.exe8.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe8.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\SourceAssetDB
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\Hierarchy\9919ee-mainStage.json
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\StateCache\Hierarchy\9919ee-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\9919ee-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    fullPath: C:\Users\andre\Crestiki-noliki\Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    projectPath: Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityLockfile
+    fullPath: C:\Users\andre\Crestiki-noliki\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-0bd46cdd45caa1b468d9d42c537f06cb
+    fullPath: C:\Users\andre\Crestiki-noliki\Temp\UnityTempFile-0bd46cdd45caa1b468d9d42c537f06cb
+    projectPath: Temp\UnityTempFile-0bd46cdd45caa1b468d9d42c537f06cb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-0f6666eca5b2d33419de5767952c596c
+    fullPath: C:\Users\andre\Crestiki-noliki\Temp\UnityTempFile-0f6666eca5b2d33419de5767952c596c
+    projectPath: Temp\UnityTempFile-0f6666eca5b2d33419de5767952c596c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-43299e7c6303c0943a94a2e4872f32c6
+    fullPath: C:\Users\andre\Crestiki-noliki\Temp\UnityTempFile-43299e7c6303c0943a94a2e4872f32c6
+    projectPath: Temp\UnityTempFile-43299e7c6303c0943a94a2e4872f32c6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-639350e5caa84714097c2af265888835
+    fullPath: C:\Users\andre\Crestiki-noliki\Temp\UnityTempFile-639350e5caa84714097c2af265888835
+    projectPath: Temp\UnityTempFile-639350e5caa84714097c2af265888835
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-66463d33f327f3446a18fab1c6b7531f
+    fullPath: C:\Users\andre\Crestiki-noliki\Temp\UnityTempFile-66463d33f327f3446a18fab1c6b7531f
+    projectPath: Temp\UnityTempFile-66463d33f327f3446a18fab1c6b7531f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-6799466d97b48e34c8ebea8d0e9eecf7
+    fullPath: C:\Users\andre\Crestiki-noliki\Temp\UnityTempFile-6799466d97b48e34c8ebea8d0e9eecf7
+    projectPath: Temp\UnityTempFile-6799466d97b48e34c8ebea8d0e9eecf7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8974d13971c493847a13b325339bdc87
+    fullPath: C:\Users\andre\Crestiki-noliki\Temp\UnityTempFile-8974d13971c493847a13b325339bdc87
+    projectPath: Temp\UnityTempFile-8974d13971c493847a13b325339bdc87
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8e02519d98e13594faa7979e281c67c9
+    fullPath: C:\Users\andre\Crestiki-noliki\Temp\UnityTempFile-8e02519d98e13594faa7979e281c67c9
+    projectPath: Temp\UnityTempFile-8e02519d98e13594faa7979e281c67c9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-908b4d06bf4000649bca034eada713fa
+    fullPath: C:\Users\andre\Crestiki-noliki\Temp\UnityTempFile-908b4d06bf4000649bca034eada713fa
+    projectPath: Temp\UnityTempFile-908b4d06bf4000649bca034eada713fa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-917ace470c26b5e4a9345367bcf1720b
+    fullPath: C:\Users\andre\Crestiki-noliki\Temp\UnityTempFile-917ace470c26b5e4a9345367bcf1720b
+    projectPath: Temp\UnityTempFile-917ace470c26b5e4a9345367bcf1720b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-972b28ce7c5e672448513c4b94e542ad
+    fullPath: C:\Users\andre\Crestiki-noliki\Temp\UnityTempFile-972b28ce7c5e672448513c4b94e542ad
+    projectPath: Temp\UnityTempFile-972b28ce7c5e672448513c4b94e542ad
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-99cec08bd1599c84cb40d4afd87f2f4b
+    fullPath: C:\Users\andre\Crestiki-noliki\Temp\UnityTempFile-99cec08bd1599c84cb40d4afd87f2f4b
+    projectPath: Temp\UnityTempFile-99cec08bd1599c84cb40d4afd87f2f4b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9a70d70331fa8564c8b9425efd76b7d0
+    fullPath: C:\Users\andre\Crestiki-noliki\Temp\UnityTempFile-9a70d70331fa8564c8b9425efd76b7d0
+    projectPath: Temp\UnityTempFile-9a70d70331fa8564c8b9425efd76b7d0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9b79be4065d5cd2448b99df74b5d5c09
+    fullPath: C:\Users\andre\Crestiki-noliki\Temp\UnityTempFile-9b79be4065d5cd2448b99df74b5d5c09
+    projectPath: Temp\UnityTempFile-9b79be4065d5cd2448b99df74b5d5c09
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a309fdc32e74ad4418917c5f4802688e
+    fullPath: C:\Users\andre\Crestiki-noliki\Temp\UnityTempFile-a309fdc32e74ad4418917c5f4802688e
+    projectPath: Temp\UnityTempFile-a309fdc32e74ad4418917c5f4802688e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a955e97273b8ef34db39688cd1d183c3
+    fullPath: C:\Users\andre\Crestiki-noliki\Temp\UnityTempFile-a955e97273b8ef34db39688cd1d183c3
+    projectPath: Temp\UnityTempFile-a955e97273b8ef34db39688cd1d183c3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-bc105088335c5344f82ffc7f03da2fb4
+    fullPath: C:\Users\andre\Crestiki-noliki\Temp\UnityTempFile-bc105088335c5344f82ffc7f03da2fb4
+    projectPath: Temp\UnityTempFile-bc105088335c5344f82ffc7f03da2fb4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-cae368ced6ceab743a7a9180ddcd76f0
+    fullPath: C:\Users\andre\Crestiki-noliki\Temp\UnityTempFile-cae368ced6ceab743a7a9180ddcd76f0
+    projectPath: Temp\UnityTempFile-cae368ced6ceab743a7a9180ddcd76f0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-cd721f9a1c47357458609254ab853992
+    fullPath: C:\Users\andre\Crestiki-noliki\Temp\UnityTempFile-cd721f9a1c47357458609254ab853992
+    projectPath: Temp\UnityTempFile-cd721f9a1c47357458609254ab853992
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d76e2fa8892f02240a430e5c47a174e4
+    fullPath: C:\Users\andre\Crestiki-noliki\Temp\UnityTempFile-d76e2fa8892f02240a430e5c47a174e4
+    projectPath: Temp\UnityTempFile-d76e2fa8892f02240a430e5c47a174e4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d859728ee57e2e244831eaf5d127c48e
+    fullPath: C:\Users\andre\Crestiki-noliki\Temp\UnityTempFile-d859728ee57e2e244831eaf5d127c48e
+    projectPath: Temp\UnityTempFile-d859728ee57e2e244831eaf5d127c48e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-de14c9f4dc0324341b8133155d11d9d0
+    fullPath: C:\Users\andre\Crestiki-noliki\Temp\UnityTempFile-de14c9f4dc0324341b8133155d11d9d0
+    projectPath: Temp\UnityTempFile-de14c9f4dc0324341b8133155d11d9d0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e1406ab173a451f469c84454256c8910
+    fullPath: C:\Users\andre\Crestiki-noliki\Temp\UnityTempFile-e1406ab173a451f469c84454256c8910
+    projectPath: Temp\UnityTempFile-e1406ab173a451f469c84454256c8910
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e557c33183d8e4247ad590544a27f09a
+    fullPath: C:\Users\andre\Crestiki-noliki\Temp\UnityTempFile-e557c33183d8e4247ad590544a27f09a
+    projectPath: Temp\UnityTempFile-e557c33183d8e4247ad590544a27f09a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-efb1aee98cb39ab41b1898f9449e6a5b
+    fullPath: C:\Users\andre\Crestiki-noliki\Temp\UnityTempFile-efb1aee98cb39ab41b1898f9449e6a5b
+    projectPath: Temp\UnityTempFile-efb1aee98cb39ab41b1898f9449e6a5b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
