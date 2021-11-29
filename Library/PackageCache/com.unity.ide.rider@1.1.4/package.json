@@ -6,7 +6,11 @@
   "unity": "2019.2",
   "unityRelease": "0a12",
   "dependencies": {
+<<<<<<< HEAD
     "com.unity.test-framework": "1.1.3"
+=======
+    "com.unity.test-framework": "1.1.1"
+>>>>>>> 439220abe204b9799510752647a0c5c6596195f8
   },
   "relatedPackages": {
     "com.unity.ide.rider.tests": "1.1.4"
